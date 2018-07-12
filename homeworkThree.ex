@@ -16,6 +16,6 @@ end
 
 checkIsItMap = fn(map)
 
-if %[] = map do
+if %{} = map do
   "Hello, Alice Hemingway"
 end
