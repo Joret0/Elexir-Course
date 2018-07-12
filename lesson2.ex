@@ -14,7 +14,7 @@ defmodule Homework do
     true = true
     false = !true
     2 = 1 + 1
-    4.0 = 2 /_
+    4.0 = 2 / 8.0
     6 = 2 * 3
     3 > 2
     "hello world" = "hello" <> "world"
