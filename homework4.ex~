@@ -1,0 +1,3 @@
+list = ["Alice Addison", "Bob Benetton"]
+Enum.map(list, fn x -> [x] end)
+
